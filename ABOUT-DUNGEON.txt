@@ -1,0 +1,7 @@
+The dungeon game was my final project during my first computer science course.
+It was a 4 person group project and we decided to make a game. This game is
+similar to certain RPG's that have random battles while exploring. I was 
+responsible for creating the classes: EnemyData, WeaponData, and Potion. 
+I also created the default map and the other mazes that can be selected at the
+beginning of the game. This project has been one of my favorites since I even enjoyed,
+testing the game along with implementing the different functions.
